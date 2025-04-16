@@ -1,2 +1,2 @@
 # Support
-App support
+Use "Issues" panel for app support.
